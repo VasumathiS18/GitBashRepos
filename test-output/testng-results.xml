@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="136" started-at="2023-04-04T10:21:42 IST" finished-at="2023-04-04T10:21:43 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="136" started-at="2023-04-04T10:21:42 IST" finished-at="2023-04-04T10:21:43 IST">
+      <class name="SoftAssertTest">
+        <test-method status="PASS" signature="createContact()[pri:0, instance:SoftAssertTest@e720b71]" name="createContact" duration-ms="27" started-at="2023-04-04T10:21:43 IST" finished-at="2023-04-04T10:21:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createContact -->
+        <test-method status="PASS" signature="modify()[pri:0, instance:SoftAssertTest@e720b71]" name="modify" duration-ms="3" started-at="2023-04-04T10:21:43 IST" finished-at="2023-04-04T10:21:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- modify -->
+      </class> <!-- SoftAssertTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

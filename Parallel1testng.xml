@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="classes" name="Suite">
+  <test thread-count="5" parallel="classes" name="Test">
+    <classes>
+      <class name="frameWork.Sample"/>
+      <class name="frameWork.PrioritiesPrg"/>
+      <class name="frameWork.CalenderPopup"/>
+      <class name="frameWork.HardAssert"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
